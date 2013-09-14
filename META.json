@@ -1,0 +1,41 @@
+{
+   "abstract" : "Generate html docs from the dists in a stack",
+   "author" : [
+      "Andy Gorman <agorman@cpan.org>"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.300037, CPAN::Meta::Converter version 2.120921",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Pinto-Action-Doc",
+   "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Pinto" : "0.090",
+            "Pod::ProjectDocs" : "0.40"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "File::DirCompare" : "0",
+            "File::Temp" : "0",
+            "IO::Handle" : "0",
+            "IPC::Open3" : "0",
+            "Test::More" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "version" : "0.001"
+}
+
