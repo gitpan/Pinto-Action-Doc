@@ -1,0 +1,53 @@
+==================================================
+Changes from 2012-09-25 00:00:00 +0000 to present.
+==================================================
+
+------------------------------------------
+version 0.002 at 2013-09-25 04:13:08 +0000
+------------------------------------------
+
+  Change: 2f7f17125387689d92059ea33d38d29e4b4de537
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-09-24 21:12:24 +0000
+
+    Updating dist.ini to tag releases 
+
+  Change: a55400ace65d00513b299adc1729dad2d7b6eb36
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-09-24 21:08:53 +0000
+
+    Updating Dist::Zilla::Plugin::Test::Compile 
+
+  Change: 11d273b204a4f04a450d9f879813c10cf3c531e0
+  Author: Andy Gorman <andyg@apacesystems.com>
+  Date : 2013-09-13 22:26:02 +0000
+
+    Updating files from dzil build 
+
+  Change: 7414447cdc98815b4ea063b0adb9fd9a70e36627
+  Author: Andy Gorman <andyg@apacesystems.com>
+  Date : 2013-09-13 22:24:39 +0000
+
+    Fixing bad link to App::Pinto::Command::doc in POD 
+
+  Change: a585aebb79b04b993fcf27eced77e8160d4966ca
+  Author: Andy Gorman <andyg@apacesystems.com>
+  Date : 2013-09-13 22:23:04 +0000
+
+    Removing comment for stack as default argument 
+
+  Change: 432225c66ef8357d56521e216139681c9b6a1478
+  Author: Andy Gorman <andyg@apacesystems.com>
+  Date : 2013-09-13 22:20:42 +0000
+
+    Fixing email in dist.ini 
+
+  Change: d6fdc641fbf7138f643ce26c612cc117986f58f8
+  Author: Andy Gorman <andyg@apacesystems.com>
+  Date : 2013-09-13 22:17:17 +0000
+
+    Initial commit 
+
+================
+End of releases.
+================
