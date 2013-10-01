@@ -1,10 +1,28 @@
 ==================================================
-Changes from 2012-09-25 00:00:00 +0000 to present.
+Changes from 2012-10-01 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.002 at 2013-09-25 04:13:08 +0000
+version 0.003 at 2013-10-01 19:57:12 +0000
 ------------------------------------------
+
+  Change: b5d80ba2e70e717e9f8b6b6bcc4a6a201f2c9360
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-10-01 12:56:08 +0000
+
+    version 0.003 
+
+  Change: 023ce543e1b9c4cf6aece5654dd9d3f64d5ae849
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-10-01 12:55:11 +0000
+
+    Updating unit tests to account for indexing bin dir 
+
+  Change: 683281d984f78509b203a0e5d674d5a8e89859cf
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-10-01 12:52:18 +0000
+
+    Making sure POD from bin dir is created 
 
   Change: 2f7f17125387689d92059ea33d38d29e4b4de537
   Author: Andy Gorman <andy@apacesystems.com>
@@ -47,6 +65,16 @@ version 0.002 at 2013-09-25 04:13:08 +0000
   Date : 2013-09-13 22:17:17 +0000
 
     Initial commit 
+
+-----------------------------------------
+version .002 at 2013-09-25 04:13:21 +0000
+-----------------------------------------
+
+  Change: 3b3f3a7f39f01d0a2a044ddc8412dc2eb4d77f31
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-09-24 21:13:21 +0000
+
+    Build results of 2f7f171 (on master) 
 
 ================
 End of releases.

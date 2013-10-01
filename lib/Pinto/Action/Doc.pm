@@ -2,7 +2,7 @@
 
 package Pinto::Action::Doc;
 {
-  $Pinto::Action::Doc::VERSION = '0.002';
+  $Pinto::Action::Doc::VERSION = '0.003';
 }
 
 use Moose;
@@ -158,7 +158,8 @@ sub execute {
         push @unpackers, $unpacker;
         
         my $temp_dir = $unpacker->unpack;
-        push @dirs, "$temp_dir/lib" if -e "$temp_dir/lib"
+        push @dirs, "$temp_dir/lib"    if -e "$temp_dir/lib";
+        push @dirs, "$temp_dir/bin"    if -e "$temp_dir/bin";
     }
 
     my $pd = Pod::ProjectDocs->new(
@@ -194,7 +195,7 @@ Pinto::Action::Doc - Generate html docs from the dists in a stack
 
 =head1 VERSION
 
-version 0.002
+version 0.003
 
 =head1 DESCRIPTION
 

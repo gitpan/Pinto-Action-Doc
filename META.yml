@@ -21,4 +21,4 @@ name: Pinto-Action-Doc
 requires:
   Pinto: 0.090
   Pod::ProjectDocs: 0.40
-version: 0.002
+version: 0.003

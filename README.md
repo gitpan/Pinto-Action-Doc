@@ -4,7 +4,7 @@ Pinto::Action::Doc - Generate html docs from the dists in a stack
 
 # VERSION
 
-version 0.002
+version 0.003
 
 # DESCRIPTION
 
