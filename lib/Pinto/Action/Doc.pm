@@ -2,7 +2,7 @@
 
 package Pinto::Action::Doc;
 {
-  $Pinto::Action::Doc::VERSION = '0.003';
+  $Pinto::Action::Doc::VERSION = '0.004';
 }
 
 use Moose;
@@ -195,7 +195,7 @@ Pinto::Action::Doc - Generate html docs from the dists in a stack
 
 =head1 VERSION
 
-version 0.003
+version 0.004
 
 =head1 DESCRIPTION
 

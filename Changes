@@ -1,10 +1,28 @@
 ==================================================
-Changes from 2012-10-01 00:00:00 +0000 to present.
+Changes from 2012-11-08 00:00:00 +0000 to present.
 ==================================================
 
 ------------------------------------------
-version 0.003 at 2013-10-01 19:57:12 +0000
+version 0.004 at 2013-11-08 19:36:28 +0000
 ------------------------------------------
+
+  Change: ae98c32e68267cc51406f321b461432560b938b1
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-11-08 11:36:19 +0000
+
+    version 0.004 
+
+  Change: 47ff55772cdde5ce78e0ba782d47527cc6ebe632
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-11-08 11:35:51 +0000
+
+    Switching from RT to github for bug tracking 
+
+  Change: 913c0684ba9e1e324e7f8632b9e9822953b35ad0
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-10-01 12:58:25 +0000
+
+    version 0.003 
 
   Change: b5d80ba2e70e717e9f8b6b6bcc4a6a201f2c9360
   Author: Andy Gorman <andy@apacesystems.com>
@@ -65,6 +83,16 @@ version 0.003 at 2013-10-01 19:57:12 +0000
   Date : 2013-09-13 22:17:17 +0000
 
     Initial commit 
+
+-----------------------------------------
+version .003 at 2013-10-01 19:57:28 +0000
+-----------------------------------------
+
+  Change: dc4c54e6b1e7ba6cef1a2e47b8bf1f595dae03fc
+  Author: Andy Gorman <andy@apacesystems.com>
+  Date : 2013-10-01 12:57:28 +0000
+
+    Build results of b5d80ba (on master) 
 
 -----------------------------------------
 version .002 at 2013-09-25 04:13:21 +0000

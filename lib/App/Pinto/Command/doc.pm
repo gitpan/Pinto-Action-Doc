@@ -1,6 +1,6 @@
 package App::Pinto::Command::doc;
 {
-  $App::Pinto::Command::doc::VERSION = '0.003';
+  $App::Pinto::Command::doc::VERSION = '0.004';
 }
 
 # ABSTRACT: generate html docs from the dists in a stack
@@ -74,7 +74,7 @@ App::Pinto::Command::doc - generate html docs from the dists in a stack
 
 =head1 VERSION
 
-version 0.003
+version 0.004
 
 =head1 SYNOPSIS
 
